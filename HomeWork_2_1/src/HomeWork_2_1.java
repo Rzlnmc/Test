@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class HomeWork_2_1 {
-//�����������������
 		int nu = 0 ;
 		int cir = ci ;
 		{
